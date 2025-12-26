@@ -21,6 +21,7 @@
 -Advance: Decorators, Generators, Iterators, MetaProgramming
 
 
+# brackets meanings and names
 
 [] -> brackets
 () -> parenthesis
